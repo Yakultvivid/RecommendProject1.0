@@ -1,12 +1,12 @@
 
 # 数据库连接
-# HOST = "39.96.14.195"
-HOST = "39.105.158.30"
-# USER = "match_shihe"
-USER = "koko"
-# PASSWORD = "Shihe_match*2019"
-PASSWORD = "rhkoko123"
-DATABASE = "match_shihe"
+# HOST = ""
+HOST = ""
+# USER = ""
+USER = ""
+# PASSWORD = ""
+PASSWORD = ""
+DATABASE = ""
 
 # 与目标用户相似的用户数量
 N_SIM_USER = 50
